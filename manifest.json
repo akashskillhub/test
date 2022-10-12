@@ -1,6 +1,8 @@
 {
     "name": "SKILLHUB",
     "start_url": "/pwa",
+    "orientation": "portrait",
+    "description": "Awesome Progressive Web App",
     "icons": [
         {
             "src": "./assets/images/SKILLHUB-48-48.png",
