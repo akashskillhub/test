@@ -36,7 +36,7 @@
         }
     ],
     "background_color": "#379df1",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "theme_color": "#379df1",
     "shortcuts": [
