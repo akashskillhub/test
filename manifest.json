@@ -44,7 +44,7 @@
             "name": "Learn About Us",
             "short_name": "about",
             "description": "Know more about Matic evo",
-            "url": "/about.html",
+            "url": "./about.html",
             "icons": [
                 {
                     "src": "./assets/images/SKILLHUB-192-192.png",
@@ -56,7 +56,7 @@
             "name": "Get In Touch With Us",
             "short_name": "contact",
             "description": "know our contact details",
-            "url": "/contact.html",
+            "url": "./contact.html",
             "icons": [
                 {
                     "src": "./assets/images/SKILLHUB-192-192.png",
