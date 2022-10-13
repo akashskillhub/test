@@ -1,6 +1,6 @@
 {
     "name": "MATIC EVO",
-    "start_url": "/pwa",
+    "start_url": "/",
     "orientation": "portrait",
     "description": "Awesome Progressive Web App",
     "icons": [
@@ -41,10 +41,10 @@
     "theme_color": "#379df1",
     "shortcuts": [
         {
-            "name": "How's weather today?",
-            "short_name": "Today",
-            "description": "View weather information for today",
-            "url": "/today?source=pwa",
+            "name": "Learn About Us",
+            "short_name": "about",
+            "description": "Know more about Matic evo",
+            "url": "/about.html",
             "icons": [
                 {
                     "src": "./assets/images/SKILLHUB-192-192.png",
@@ -53,10 +53,10 @@
             ]
         },
         {
-            "name": "How's weather tomorrow?",
-            "short_name": "Tomorrow",
-            "description": "View weather information for tomorrow",
-            "url": "/tomorrow?source=pwa",
+            "name": "Get In Touch With Us",
+            "short_name": "contact",
+            "description": "know our contact details",
+            "url": "/contact.html",
             "icons": [
                 {
                     "src": "./assets/images/SKILLHUB-192-192.png",
