@@ -1,6 +1,6 @@
 {
     "name": "MATIC EVO",
-    "start_url": "/",
+    "start_url": "/test",
     "orientation": "portrait",
     "description": "Awesome Progressive Web App",
     "icons": [
