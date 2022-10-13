@@ -1,5 +1,5 @@
 {
-    "name": "SKILLHUB",
+    "name": "MATIC EVO",
     "start_url": "/pwa",
     "orientation": "portrait",
     "description": "Awesome Progressive Web App",
@@ -47,7 +47,7 @@
             "url": "/today?source=pwa",
             "icons": [
                 {
-                    "src": "/assets/images/SKILLHUB-192-192.png",
+                    "src": "./assets/images/SKILLHUB-192-192.png",
                     "sizes": "192x192"
                 }
             ]
@@ -59,7 +59,7 @@
             "url": "/tomorrow?source=pwa",
             "icons": [
                 {
-                    "src": "/assets/images/SKILLHUB-192-192.png",
+                    "src": "./assets/images/SKILLHUB-192-192.png",
                     "sizes": "192x192"
                 }
             ]
@@ -67,7 +67,7 @@
     ],
     "screenshots": [
         {
-            "src": "/assets/images/screenshot1.jpeg",
+            "src": "./assets/images/screenshot1.jpeg",
             "type": "image/jpeg",
             "sizes": "724x598"
         }
